@@ -2,7 +2,7 @@ baseURL = "http://example.org/"
 title = "My Resume"
 languageCode = "en-US"
 layoutdir = "layouts"
-publishdir = "public"
+publishdir = "docs"
 googleAnalytics = ""
 theme = "vitae"
 
