@@ -3,7 +3,7 @@ title = "My Resume"
 languageCode = "en-US"
 layoutdir = "layouts"
 publishdir = "docs"
-googleAnalytics = ""
+googleAnalytics = "UA-112034468-1"
 theme = "vitae"
 
 [params]
