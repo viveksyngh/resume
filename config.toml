@@ -1,4 +1,4 @@
-baseURL = "http://www.viveksyngh.info"
+baseURL = "http://www.viveksyngh.info/resume/"
 title = "My Resume"
 languageCode = "en-US"
 layoutdir = "layouts"

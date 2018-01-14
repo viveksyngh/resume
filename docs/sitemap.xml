@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.viveksyngh.info/categories/</loc>
+    <loc>http://www.viveksyngh.info/resume/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.viveksyngh.info/tags/</loc>
+    <loc>http://www.viveksyngh.info/resume/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.viveksyngh.info/</loc>
+    <loc>http://www.viveksyngh.info/resume/</loc>
     <priority>0</priority>
   </url>
   
