@@ -1,0 +1,29 @@
+baseURL = "http://example.org/"
+title = "My Resume"
+languageCode = "en-US"
+layoutdir = "layouts"
+publishdir = "public"
+googleAnalytics = ""
+theme = "vitae"
+
+[params]
+  author = "Vivek Singh"
+  title = "Vivek Singh Resume"
+  description = "Vivek Kumar Singh Resume"
+  avatar = "profile.png"
+  email = "vivekkmr45@yahoo.in"
+  email_full = "mailto:viveksyngh0908@gmail.com"
+  website = "www.viveksyngh.info"
+  website_full = "http://www.viveksyngh.info"
+  github = "viveksyngh"
+  twitter = "viveksyngh"
+  tel = "+91 8971400382"
+  tel_full = "+91 8971400382"
+  google_maps = "https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL"
+  address = "Manjunatha Layout, Munnekolalu"
+  postcode = "560037"
+  city = "Bangalore"
+  country = "India"
+
+  # Custom assets can be linked with their paths relative to static/
+  custom_css = []

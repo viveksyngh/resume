@@ -1,0 +1,17 @@
+name: Skills
+title: Software Engineering & Web Development
+source:
+  - category: Languages
+    skills: Python, Golang, JavaScript, Java
+  - category: Backend Frameworks
+    skills: Django, Django REST Framework, Flask, Celery
+  - category: Frontend
+    skills: AngularJS, JQuery, Bootstrap, HTML5, CSS3
+  - category: Data Stores
+    skills: MySQL, PostgreSQL, Elasticsearch, Redis, RabbitMQ
+  - category: DevOps
+    skills: Docker, Docker Compose, Docker Swarm, ELK Stack, Vagrant, Prometheus, Metabase, AWS, Heroku
+  - category: Version Control
+    skills: Git, Perforce
+  - category: Data Science
+    skills: Pandas, Matplotlib, Scikit-learn

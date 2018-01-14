@@ -1,0 +1,39 @@
+name: Employment
+source:
+  - prof: Software Engineer - II
+    place: Akamai Technologies, Bangalore, India
+    time: April, 2017 to Present
+    description: Design architecture for the application considering performance and scalability. Ported an application from Python to Golang and scaled the application. Help team in educating and migrating applications to Akamai Internal PAAS. Help set best practices and write pluggable components to be used across projects. Suggest new tools and technologies which can be useful for projects. Take technical interviews in lateral hiring. Mentoring junior Engineers.
+    points:
+      - item: Design architecture for the application considering performance and scalability.
+      - item: Ported an application from Python to Golang and scaled the application.
+      - item: Help team in educating and migrating applications to Akamai Internal PAAS.
+      - item: Help set best practices and write pluggable components to be used across projects
+      - item: Suggest new tools and technologies which can be useful for projects.
+      - item: Take technical interviews in lateral hiring.
+      - item: Mentoring junior Engineers.
+
+  - prof: Senior Software Engineer
+    place: Happay, Bangalore, India
+    time: December, 2015 to April, 2017
+    description: Help set best practices across the project and in designing the architecture for the application considering performance and scalability. Worked on writing APIs in Django for UI and Mobile Application. Worked on wallet, card and core transaction processing platform of Happay. Manage production environment in AWS and deployment of code to production. Automated the task of code deployment and alerts in AWS using a slack bot. Setup ELK stack for logging and real-time debugging of application in production. Review code and mentor junior engineers. Take technical interviews in lateral hiring.
+    points:
+      - item: Help set best practices across the project and in designing the architecture for the application considering performance and scalability
+      - item: Worked on writing APIs in Django for UI and Mobile Application.
+      - item: Worked on wallet, card and core transaction processing platform of Happay.
+      - item: Manage production environment in AWS and deployment of code to production.
+      - item: Automated the task of code deployment and alerts in AWS using a slack bot.
+      - item: Setup ELK stack for logging and real-time debugging of application in production.
+      - item: Review code and mentor junior engineers.
+      - item: Take technical interviews in lateral hiring.
+
+  - prof: System Engineer
+    place: Tata Consultancy Services, Bangalore, India
+    time: 2013 to 2014
+    description: Received 3 months training in Data Warehouse and Business Intelligence. Developed two dashboards for sales and planning of client using QlikView. Developed QlikView extensions using HTML, CSS, and JavaScript. Trained in Informatica, Big Data technologies like Hadoop, Hive, Pig. Worked on POC implementation for using Big Data and Hadoop.
+    points:
+      - item: Received 3 months training in Data Warehouse and Business Intelligence.
+      - item: Developed two dashboards for sales and planning of client using QlikView.
+      - item: Developed QlikView extensions using HTML, CSS, and JavaScript.
+      - item: Trained in Informatica, Big Data technologies like Hadoop, Hive, Pig.
+      - item: Worked on POC implementation for using Big Data and Hadoop.
