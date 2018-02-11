@@ -1,5 +1,11 @@
 name: Certifications
 source:
+  - name: Applied Machine Learning in Python
+    authority: Coursera
+    time: Feb, 2018 - Present
+    license_no: 8UUNT2QXWMW2
+    url: https://www.coursera.org/account/accomplishments/verify/8UUNT2QXWMW2
+
   - name: Applied Plotting, Charting & Data Representation in Python
     authority: Coursera
     time: Dec, 2017 - Present
