@@ -1,0 +1,12 @@
+name: Open Source Experience
+source:
+  - project: OpenFaas - Serverless Functions Made Simple for Docker and Kubernetes
+    time: October, 2017 to Present
+    url: www.openfaas.com
+    points:
+      - item: OpenFaas is a serverless framework for Docker and Kubernetes.
+      - item: Active contributor for OpenFaas project since October 2017.
+      - item: Contributed for OpenFaas in areas like templates, watchdog, faas-netes, faas-swarm
+      - item: Written functions for OpenFaas Store.
+      - item: Contributed in languages like Golang, Python
+      - item: Contributed to few other Open Source projects as well.
