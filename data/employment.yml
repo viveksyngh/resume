@@ -7,6 +7,7 @@ source:
     points:
       - item: Design architecture for the application considering performance and scalability.
       - item: Ported an application from Python to Golang and scaled the application.
+      - item: Wrote a CLI in Golang to interact with internal Build and Release system.
       - item: Help team in educating and migrating applications to Akamai Internal PAAS.
       - item: Help set best practices and write pluggable components to be used across projects
       - item: Suggest new tools and technologies which can be useful for projects.

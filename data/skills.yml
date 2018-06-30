@@ -10,7 +10,7 @@ source:
   - category: Data Stores
     skills: MySQL, PostgreSQL, Elasticsearch, Redis, RabbitMQ
   - category: DevOps
-    skills: Docker, Docker Compose, Docker Swarm, ELK Stack, Vagrant, Prometheus, Metabase, AWS, Heroku
+    skills: Docker, Docker Compose, Docker Swarm, Kubernetes, ELK Stack, Vagrant, Prometheus, Metabase, AWS, Heroku
   - category: Version Control
     skills: Git, Perforce
   - category: Data Science
