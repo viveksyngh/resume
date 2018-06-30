@@ -5,7 +5,7 @@ source:
     time: April, 2017 to Present
     description: Design architecture for the application considering performance and scalability. Ported an application from Python to Golang and scaled the application. Help team in educating and migrating applications to Akamai Internal PAAS. Help set best practices and write pluggable components to be used across projects. Suggest new tools and technologies which can be useful for projects. Take technical interviews in lateral hiring. Mentoring junior Engineers.
     points:
-      - item: Design architecture for the application considering performance and scalability.
+      - item: Designed architecture for applications considering performance and scalability.
       - item: Ported an application from Python to Golang and scaled the application.
       - item: Wrote a CLI in Golang to interact with internal Build and Release system.
       - item: Help team in educating and migrating applications to Akamai Internal PAAS.
